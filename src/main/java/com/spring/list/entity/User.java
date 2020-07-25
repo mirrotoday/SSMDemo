@@ -4,6 +4,15 @@ public class User {
     private int id;
     private String username;
 
+
+    @Override
+    public String toString() {
+        return "User{" +
+                "id=" + id +
+                ", username='" + username + '\'' +
+                '}';
+    }
+
     public int getId() {
         return id;
     }

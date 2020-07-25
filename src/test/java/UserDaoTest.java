@@ -1,5 +1,4 @@
 import com.spring.list.dao.UserDao;
-import com.spring.list.entity.User;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -18,8 +17,8 @@ import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
         public void testFindUserById() {
             int id = 1;
 
-            User user = userDao.findUserByid(id);
-          System.out.println(user.getId() + ":" + user.getUsername());
+          //  User user = userDao.findUserByid(id);
+         // System.out.println(user.getId() + ":" + user.getUsername());
         }
     }
 

@@ -2,7 +2,10 @@ package com.spring.list.service;
 
 import com.spring.list.entity.User;
 
+import java.util.List;
+
 public interface UserService {
 
-      public User findUserByid(int id);
+     //  User findUserByid(int id);
+       List<User> finAll();
 }
