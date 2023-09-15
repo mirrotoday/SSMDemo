@@ -5,20 +5,14 @@
       <artifact name="SSM_Maven:war exploded" />
     </artifacts-to-build>
   </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="360230ba-aaab-413f-9ba5-eb7907b20ecc" name="Default Changelist" comment="pagehelper test">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_3_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_3_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_5_1_10.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_5_1_10.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jstl_jstl_1_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jstl_jstl_1_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_26.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_26.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_6.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,75 +39,6 @@
       </path>
     </expand>
     <select />
-  </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="2032447595">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="12" />
-          <entry key="project.open.time.11" value="1" />
-          <entry key="project.open.time.13" value="1" />
-          <entry key="project.open.time.20" value="1" />
-          <entry key="project.open.time.25" value="1" />
-          <entry key="project.open.time.31" value="1" />
-          <entry key="project.open.time.37" value="3" />
-          <entry key="project.open.time.4" value="1" />
-          <entry key="project.open.time.42" value="1" />
-          <entry key="project.open.time.44" value="1" />
-          <entry key="project.open.time.47" value="1" />
-          <entry key="project.open.time.7" value="2" />
-          <entry key="project.opened" value="14" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="dummy" value="2" />
-          <entry key="java" value="1619" />
-          <entry key="jsp" value="453" />
-          <entry key="properties" value="13" />
-          <entry key="txt" value="17" />
-          <entry key="xml" value="602" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="1619" />
-          <entry key="JSP" value="453" />
-          <entry key="PLAIN_TEXT" value="19" />
-          <entry key="Properties" value="13" />
-          <entry key="XML" value="602" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="SpringLocalModels/module=SSM_Maven" value="1" />
-          <entry key="fxml" value="1" />
-          <entry key="java" value="34" />
-          <entry key="jsp" value="3" />
-          <entry key="properties" value="4" />
-          <entry key="sql" value="2" />
-          <entry key="xml" value="33" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JAVA" value="34" />
-          <entry key="JSP" value="3" />
-          <entry key="Properties" value="4" />
-          <entry key="Scratch" value="2" />
-          <entry key="UML" value="1" />
-          <entry key="XML" value="34" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.spring.core.usages.trigger">
-        <counts>
-          <entry key="fixes.SpringFacetInspection.AddFacetFix" value="1" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
-  <component name="FavoritesManager">
-    <favorites_list name="SSM_Maven" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -290,6 +215,9 @@
     <option name="FILTER_DEBUG" value="false" />
     <option name="CUSTOM_FILTER" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="MavenProjectNavigator">
     <treeState>
       <expand>
@@ -307,6 +235,7 @@
     <option name="width" value="1382" />
     <option name="height" value="754" />
   </component>
+  <component name="ProjectId" id="2VPeWTcHYAOiuFIoYakUdIRM0lr" />
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
       <profile-state>
@@ -505,19 +434,19 @@
       </pane>
     </panes>
   </component>
-  <component name="PropertiesComponent">
-    <property name="DatabaseDriversLRU" value="mysql&#10;oracle" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1595679760195" />
-    <property name="last_opened_file_path" value="E:/Desktop/Mybatis-PageHelper-master" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="SDKs" />
-    <property name="project.structure.proportion" value="0.15429688" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "spring.configuration.checksum": "5b225e30557beb799ee73e2f86f4ea59",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\SSM_Maven\src\main\resources" />
@@ -637,18 +566,6 @@
       </FILE-GROUP>
     </UpdatedFiles>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
   <component name="RunManager" selected="Tomcat Server.Unnamed">
     <configuration name="All Features in: SSM_Maven" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="3" />
@@ -671,6 +588,7 @@
       <module name="SSM_Maven" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="UserDaoTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -689,11 +607,11 @@
       <server-settings>
         <option name="BASE_DIRECTORY_NAME" value="Unnamed_SSM_Maven_4" />
       </server-settings>
-      <predefined_log_file id="Tomcat" enabled="true" />
-      <predefined_log_file id="Tomcat Catalina" enabled="true" />
-      <predefined_log_file id="Tomcat Manager" enabled="false" />
-      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
-      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
       <RunnerSettings RunnerId="Debug">
         <option name="DEBUG_PORT" value="60818" />
       </RunnerSettings>
@@ -750,17 +668,17 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Tomcat Server.Unnamed" />
-      <item itemvalue="Cucumber java.All Features in: SSM_Maven" />
+      <item itemvalue="Cucumber Java.All Features in: SSM_Maven" />
       <item itemvalue="JUnit.UserDaoTest" />
+      <item itemvalue="Tomcat Server.Unnamed" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.UserDaoTest" />
-        <item itemvalue="Cucumber java.All Features in: SSM_Maven" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration>C:\Users\Freestyle\AppData\Roaming\Subversion</configuration>
   </component>
@@ -785,6 +703,7 @@
       <workItem from="1595662846716" duration="10000" />
       <workItem from="1595670505620" duration="3539000" />
       <workItem from="1595675450613" duration="4532000" />
+      <workItem from="1694742181885" duration="41000" />
     </task>
     <task id="LOCAL-00001" summary="pagehelper test">
       <created>1595679854704</created>
@@ -868,10 +787,7 @@
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+    <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="pagehelper test" />
